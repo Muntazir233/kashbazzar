@@ -1,0 +1,110 @@
+.register-container .login-heading {
+    color: var(--bs-heading-color);
+}
+
+.register h5 {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.register .body span {
+    font-size: 1.5rem;
+    color: var(--sub-text-color);
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.register .input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.register .register-input-container {
+    margin-top: 32px;
+}
+
+.register .input-container {
+    margin-top: 16px;
+    position: relative;
+}
+
+.register .input-container label {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    margin-bottom: 8px;
+}
+
+.register .input-container sup {
+    color: #DB3D26;
+
+}
+
+.register .input-container .register-name-box {
+    border: 1px solid #000;
+    padding: 8px 16px;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+
+.register .input-container .register-name-box::placeholder {
+    text-align: left !important;
+
+}
+
+.register .input-container .register-name-box .password-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: #666;
+    top: 32px;
+    /* Adjust color as needed */
+}
+
+
+.register .react-tel-input .form-control {
+    width: 100% !important;
+}
+
+.register .react-tel-input .form-control::placeholder {
+    text-align: left !important;
+}
+
+.register .body .react-tel-input input {
+    height: 45px;
+
+}
+
+.register button[type="submit"] {
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400 !important;
+    letter-spacing: 1px;
+    padding: 8px 16px;
+    color: var(--second-cards-color);
+    text-decoration: none;
+    background-color: var(--secondary-color);
+    border-radius: 4px;
+    width: 100%;
+}
+
+.register button[type="submit"]:hover {
+    background-color: var(--secondary-color);
+    color: var(--text-field-color);
+    opacity: 1;
+}
+
+.register .error-msg {
+    color: #DB3D26 !important;
+}

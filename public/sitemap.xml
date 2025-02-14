@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>WEBSITE_URL_HERE/</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+<url>
+  <loc>WEBSITE_URL_HERE/about</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/contact</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/faqs</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/notification</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/wishlist</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/cart</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/profile</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/categories</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/products</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/product</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/product/:slug</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/terms</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/checkout</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/policy/Privacy_Policy</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/policy/ReturnsAndExchangesPolicy</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/policy/ReturnsAndExchangesPolicy</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>WEBSITE_URL_HERE/policy/Cancellation_Policy</loc>
+  <lastmod>2025-02-08T16:06:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
